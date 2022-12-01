@@ -170,7 +170,7 @@ img {
 }
 
 /*media quieries*/
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
   #container_about {
     display:grid; 
     grid-template-rows: auto auto;
