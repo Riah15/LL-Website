@@ -177,7 +177,8 @@ img {
     grid-template-columns: 1fr 1fr; 
     grid-template-areas:
       'overview overview'
-      'auimage info' 
+      'auimage auimage' 
+      'info info'
       'm1 m2'
       'm3 m3';
     margin: 0 auto;
